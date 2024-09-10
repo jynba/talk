@@ -29,22 +29,6 @@ theme: <b>mokkapps</b>
 
 Learn more about [how to use a theme](https://sli.dev/themes/use).
 
-## Layouts
-
-This theme provides the following layouts:
-
-![Screenshot 1](./screenshots/dark/001.png)
-![Screenshot 2](./screenshots/dark/002.png)
-![Screenshot 3](./screenshots/dark/003.png)
-![Screenshot 4](./screenshots/dark/004.png)
-![Screenshot 5](./screenshots/dark/005.png)
-![Screenshot 6](./screenshots/dark/006.png)
-![Screenshot 7](./screenshots/dark/007.png)
-![Screenshot 8](./screenshots/dark/008.png)
-![Screenshot 9](./screenshots/dark/009.png)
-![Screenshot 10](./screenshots/dark/010.png)
-![Screenshot 11](./screenshots/dark/011.png)
-
 ## Components
 
 This theme provides the following components:
